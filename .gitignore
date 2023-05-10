@@ -5,3 +5,6 @@
 */_build/*
 *.py~
 *.~lock.*#
+python-*/
+.vscode/
+dist/

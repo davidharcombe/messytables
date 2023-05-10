@@ -18,9 +18,9 @@ See the full documentation at: https://messytables.readthedocs.io
 
 
 setup(
-    name='messytables',
-    version='0.15.2',
-    description="Parse messy tabular data in various formats",
+    name='python-messytable-handler',
+    version='0.1.0',
+    description="Parse messy tabular data in various formats. Clone of okfn/messytables",
     long_description=long_desc,
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -31,8 +31,7 @@ setup(
     ],
     keywords='',
     author='Open Knowledge Foundation',
-    author_email='info@okfn.org',
-    url='https://okfn.org',
+    author_email='david.harcombe@gmail.com',
     license='MIT',
     packages=find_packages(exclude=['ez_setup', 'examples', 'test']),
     namespace_packages=[],
